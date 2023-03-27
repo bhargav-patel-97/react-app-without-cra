@@ -1,0 +1,19 @@
+{
+  "name": "react-app-without-cra",
+  "version": "1.0.0",
+  "description": "Creating a react application without using create-react-app :) ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Bhargav Patel",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.76.3",
+    "webpack-cli": "^5.0.1"
+  }
+}
